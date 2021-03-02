@@ -11,6 +11,8 @@ Retrofit for Networking
 
 Background task : Coroutines
 
+Hilt: Dependency Injection
+
 LiveData
 ViewModels
 
